@@ -9,7 +9,7 @@ export default function Home() {
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             primer cambio
           </p>
-          <h2 className="mt-10 text-3xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-4xl">
+          <h2 className="mt-10 text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100">
             cambio desde la rama main
           </h2>
         </div>
