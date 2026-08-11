@@ -10,7 +10,7 @@ export default function Home() {
             primer cambio
           </p>
           <h2 className="mt-10 text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100">
-            cambio desde la rama main
+            cambio desde la rama login
           </h2>
         </div>
       </main>
